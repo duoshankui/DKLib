@@ -1,0 +1,6 @@
+framework module DKLib {
+  umbrella header "DKLib-umbrella.h"
+
+  export *
+  module * { export * }
+}
