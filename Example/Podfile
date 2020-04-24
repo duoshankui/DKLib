@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'DKLib_Example' do
+  pod 'DKLib', :path => '../'
+
+  target 'DKLib_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
