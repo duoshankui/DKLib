@@ -13,4 +13,10 @@ open class PrintHelloWorld {
     static public func printLog() {
         print("这是个组件测试")
     }
+    
+    static public func debugPrintLog() {
+        #if DEBUG
+            printLog()
+        #endif
+    }
 }
