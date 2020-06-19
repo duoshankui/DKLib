@@ -19,4 +19,8 @@ open class PrintHelloWorld {
             printLog()
         #endif
     }
+    
+    static public func updateTestPrintLog() {
+        print("升级版本库测试")
+    }
 }
