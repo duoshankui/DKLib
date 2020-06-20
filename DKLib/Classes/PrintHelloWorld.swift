@@ -23,4 +23,8 @@ open class PrintHelloWorld {
     static public func updateTestPrintLog() {
         print("升级版本库测试")
     }
+    
+    static public func updatePrintLog() {
+        print("测试")
+    }
 }
