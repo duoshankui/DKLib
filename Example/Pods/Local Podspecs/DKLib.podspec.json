@@ -1,9 +1,9 @@
 {
   "name": "DKLib",
-  "version": "0.1.0",
-  "summary": "This is my pod lib",
+  "version": "0.3.0",
+  "summary": "DKLib 组件库",
   "description": "TODO: Add long description of the pod here.",
-  "homepage": "https://github.com/duoshankui/dkToolsRepo.git",
+  "homepage": "https://github.com/duoshankui",
   "license": {
     "type": "MIT",
     "file": "LICENSE"
@@ -12,8 +12,8 @@
     "duoshankui": "2578138035@qq.com"
   },
   "source": {
-    "git": "https://github.com/duoshankui/dkToolsRepo.git",
-    "tag": "0.1.0"
+    "git": "https://github.com/duoshankui/DKLib.git",
+    "tag": "0.3.0"
   },
   "platforms": {
     "ios": "8.0"
