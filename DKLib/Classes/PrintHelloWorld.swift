@@ -31,4 +31,9 @@ open class PrintHelloWorld {
     static public func devUpgradePrintLog() {
         print("dev tag")
     }
+    
+    static public func loganBranchUpgradePrintLog() {
+        print("logan branch tag")
+    }
+
 }
