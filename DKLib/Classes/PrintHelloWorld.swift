@@ -27,4 +27,8 @@ open class PrintHelloWorld {
     static public func updatePrintLog() {
         print("测试")
     }
+    
+    static public func devUpgradePrintLog() {
+        print("dev tag")
+    }
 }
